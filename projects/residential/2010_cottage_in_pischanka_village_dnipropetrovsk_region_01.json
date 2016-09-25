@@ -1,0 +1,31 @@
+{
+    "date": {
+      "design": "2010",
+      "realization": "2011"
+    },
+    "id": "2010_cottage_in_pischanka_village_dnipropetrovsk_region_01",
+    "images": {
+			"count": 8,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в с. Пісчанка, Дніпропетровська обл.",
+      "en": "Cottage in Pischanka village, Dnipropetrovsk region",
+      "ru": "Коттедж в п. Песчанка, Днепропетровская обл."
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+  ]
+}

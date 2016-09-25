@@ -1,0 +1,31 @@
+{
+    "date": {
+      "design": "2013",
+      "realization": "2014"
+    },
+    "id": "2013_cottage_in_dnipro_city_01",
+    "images": {
+			"count": 7,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в м. Дніпрі",
+      "en": "Cottage in Dnipro city",
+      "ru": "Коттедж в г. Днепре"
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+  ]
+}

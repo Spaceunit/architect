@@ -1,0 +1,24 @@
+
+{
+    "date": {
+      "design": "2013"
+    },
+    "id": "2013_reconstruction_of_the_shopping_center_kamenskoe_city_dneprodzerzhinsk_city_option_facades_01",
+    "images": {
+			"count": 8
+		},
+		"type": "public",
+    "name": {
+      "ua": "Реконструкція торгового центру, м. Кам'янське  (Дніпродзержинськ). Варіант фасадів.",
+      "en": "Reconstruction of the shopping center, Kamenskoe city (Dneprodzerzhinsk city). Option facades",
+      "ru": "Реконструкция тогового центра, г. Каменское (Днепродзержинск). Вариант фасадов."
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+    ]
+}

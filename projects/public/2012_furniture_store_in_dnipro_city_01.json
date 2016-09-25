@@ -1,0 +1,27 @@
+
+{
+    "date": {
+      "design": "2012"
+    },
+    "id": "2012_furniture_store_in_dnipro_city_01",
+    "images": {
+			"count": 6,
+      "i1": {
+        "type": "png"
+      }
+		},
+		"type": "public",
+    "name": {
+      "ua": "Меблевий салон, м. Дніпро",
+      "en": "Furniture store in Dnipro city",
+      "ru": "Мебельный салон, г. Днепр"
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+    ]
+}

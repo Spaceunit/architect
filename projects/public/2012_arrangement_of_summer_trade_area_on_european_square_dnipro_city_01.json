@@ -1,0 +1,30 @@
+{
+    "date": {
+      "design": "2012"
+    },
+    "id": "2012_arrangement_of_summer_trade_area_on_european_square_dnipro_city_01",
+    "images": {
+			"count": 7,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "public",
+    "name": {
+      "ua": "Організація літнього майданчика на Європейській площі, м. Дніпро",
+      "en": "Arrangement of summer trade area on European square, Dnipro city",
+      "ru": "Организация летней площадки на Европейской площади, г. Днепр"
+    },
+    "description" : [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+    ]
+}

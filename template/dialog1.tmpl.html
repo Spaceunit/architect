@@ -1,0 +1,42 @@
+<md-dialog aria-label="{{imgarray[imgindex].description[lc.translation.lc]}}" ng-cloak expo="$scope.expo" num="$rootScope.num" style="min-height: 100%; min-width: 100%; background-color: #424242; overflow: visible;">
+   <form>
+   	<md-toolbar class="md-hue-2">
+      <div class="md-toolbar-tools">
+        <!-- <h2>{{imgarray[imgindex].description[lc.translation.lc]}}</h2> -->
+        <h2>{{imgindex + 1}} / {{imgarray.length}}</h2>
+        <span flex></span>
+        <md-button class="md-icon-button" ng-click="cancel()">
+          <md-icon md-svg-src="resources/images/svg/icons/ic_close_white_24px.svg" aria-label="Close dialog"></md-icon>
+        </md-button>
+      </div>
+    </md-toolbar>
+    <md-dialog-content style="padding-left: 0; padding-right: 0;" class="" layout-align="center center">
+      <div class="md-dialog-content" layout="row" layout-align="center" style="padding: 0;">
+        <md-media style="display: block;height: {{wheight}}px; width: 100%; background-image: url({{imgarray[imgindex].url}});background-size: contain;background-repeat: no-repeat; background-position: center;">
+          <!-- <img style="margin: auto auto; width: 100%; heigth: auto; max-width: 80%; max-height: 100%;" ng-src="{{imgarray[imgindex].src}}" alt="Lush mango tree"> -->
+        </md-media>
+      </div>
+    </md-dialog-content>
+    <!-- <md-dialog-actions layout="row" layout-align="center">
+      <md-button class="md-raised" aria-label="disabled" ng-click="previousSlide()">
+       <md-icon md-svg-src="resources/images/svg/icons/ic_navigate_before_black_48px.svg"></md-icon>
+      </md-button>
+      <md-button class="md-raised" aria-label="disabled" ng-click="nextSlide()">
+        <md-icon md-svg-src="resources/images/svg/icons/ic_navigate_next_black_48px.svg"></md-icon>
+      </md-button>
+    </md-dialog-actions> -->
+   </form>
+
+    <md-toolbar style="margin-top:auto;" class="md-hue-2">
+      <div class="md-toolbar-tools">
+        <span flex></span>
+        <md-button class="md-primary" aria-label="disabled" ng-click="previousSlide()">
+				 <md-icon md-svg-src="resources/images/svg/icons/ic_navigate_before_white_48px.svg"></md-icon>
+				</md-button>
+				<md-button class="md-primary" aria-label="disabled" ng-click="nextSlide()">
+					<md-icon md-svg-src="resources/images/svg/icons/ic_navigate_next_white_48px.svg"></md-icon>
+				</md-button>
+        <span flex></span>
+      </div>
+    </md-toolbar>
+</md-dialog>

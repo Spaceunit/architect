@@ -1,0 +1,336 @@
+[
+  {
+    "date": {
+      "design": 2002,
+      "realization": 2003
+    },
+    "id": "2002_shopping_center_terra_dnipro_city_01",
+		"type": "public",
+    "name": {
+      "ua": "ТЦ \u0022Терра\u0022, м. Дніпро",
+      "en": "Shopping center \u0022Terra\u0022, Dnipro city",
+      "ru": "ТЦ \u0022Терра\u0022, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2005,
+      "realization": 2005
+    },
+    "id": "2005_house_kirovskoe_01",
+		"type": "residential",
+    "name": {
+      "ua": "Житловий будинок в с. Кіровське, Дніпропетровська обл.",
+      "en": "House in Kirovske village, Dnipropetrovsk region",
+      "ru": "Жилой дом в п.Кировское, Днепропетровская обл."
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2008,
+      "realization": 2009
+    },
+    "id": "2008_interior_design_of_office_in_dnipro_city_01",
+		"type": "public",
+    "name": {
+      "ua": "Дизайн-проект офісу, м Дніпро",
+      "en": "Interior design of office in Dnipro city",
+      "ru": "Дизаин-проект офиса, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2008
+    },
+    "id": "2008_shopping_center_areal_kamenskoe_city_dneprodzerzhinsk_city_01",
+		"type": "public",
+    "name": {
+      "ua": "ТЦ \u0022Ареал\u0022, м. Кам'янське  (Дніпродзержинськ)",
+      "en": "Shopping center \u0022AREAL\u0022, Kamenskoe city (Dneprodzerzhinsk city)",
+      "ru": "ТЦ \u0022Ареал\u0022, г. Каменское (Днепродзержинск)"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2010,
+      "realization": 2013
+    },
+    "id": "2010_the_interior_design_of_the_apartment_in_slavia_dnepr_city_02",
+		"type": "residential",
+    "name": {
+      "ua": "Дизайн інтер'єрів квартири в ЖК \u0022Славія\u0022, м. Дніпро",
+      "en": "The interior design of the apartment in \u0022Slavia\u0022 residential complex, Dnipro city",
+      "ru": "Дизаин интерьеров квартиры в ЖК \u0022Славия\u0022, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2010,
+      "realization": 2011
+    },
+    "id": "2010_cottage_in_pischanka_village_dnipropetrovsk_region_01",
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в с. Пісчанка, Дніпропетровська обл.",
+      "en": "Cottage in Pischanka village, Dnipropetrovsk region",
+      "ru": "Коттедж в п. Песчанка, Днепропетровская обл."
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2012
+    },
+    "id": "2012_arrangement_of_summer_trade_area_on_european_square_dnipro_city_01",
+		"type": "public",
+    "name": {
+      "ua": "Організація літнього майданчика на Європейській площі, м. Дніпро",
+      "en": "Arrangement of summer trade area on European square, Dnipro city",
+      "ru": "Организация летней площадки на Европейской площади, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2012
+    },
+    "id": "2012_the_interior_design_of_the_apartment_in_slavia_dnepr_city_03",
+		"type": "residential",
+    "name": {
+      "ua": "Дизайн інтер'єрів квартири в ЖК \u0022Славія\u0022, м. Дніпро",
+      "en": "The interior design of the apartment in \u0022Slavia\u0022 residential complex, Dnipro city",
+      "ru": "Дизаин интерьеров квартиры в ЖК \u0022Славия\u0022, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2012
+    },
+    "id": "2012_cottage_in_kirovske_village_dnipropetrovsk_region_01",
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в с. Кіровське, Дніпропетровська обл.",
+      "en": "Сottage in Kirovske village, Dnipropetrovsk region",
+      "ru": "Коттедж в п. Кировское, Днепропетровская обл."
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2012
+    },
+    "id": "2012_furniture_store_in_dnipro_city_01",
+		"type": "public",
+    "name": {
+      "ua": "Меблевий салон, м. Дніпро",
+      "en": "Furniture store in Dnipro city",
+      "ru": "Мебельный салон, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2013,
+      "realization": 2014
+    },
+    "id": "2013_summerhouse_in_kirovske_village_dnipropetrovsk_region_01",
+		"type": "residential",
+    "name": {
+      "ua": "Альтанка в с. Кіровське, Дніпропетровська обл.",
+      "en": "Summerhouse in Kirovske village, Dnipropetrovsk region",
+      "ru": "Беседка в п.Кировское, Днепропетровская обл."
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2013,
+      "realization": 2014
+    },
+    "id": "2013_cottage_in_dnipro_city_01",
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в м. Дніпрі",
+      "en": "Cottage in Dnipro city",
+      "ru": "Коттедж в г. Днепре"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2013
+    },
+    "id": "2013_reconstruction_of_the_shopping_center_kamenskoe_city_dneprodzerzhinsk_city_option_facades_01",
+		"type": "public",
+    "name": {
+      "ua": "Реконструкція торгового центру, м. Кам'янське  (Дніпродзержинськ). Варіант фасадів.",
+      "en": "Reconstruction of the shopping center, Kamenskoe city (Dneprodzerzhinsk city). Option facades",
+      "ru": "Реконструкция тогового центра, г. Каменское (Днепродзержинск). Вариант фасадов."
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2015
+    },
+    "id": "2015_interior_design_of_kindergarten_dnipro_city_01",
+		"type": "public",
+    "name": {
+      "ua": "Дизайн інтер'єрів дитячого садочка, м. Дніпро",
+      "en": "Interior design of kindergarten, Dnipro city",
+      "ru": "Дизаин интерьеров детского садика, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2015,
+      "realization": 2017
+    },
+    "id": "2015_cottage_in_kirovske_village_dnipropetrovsk_region_01",
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в с. Кіровське, Дніпропетровська обл.",
+      "en": "Сottage in Kirovske village, Dnipropetrovsk region",
+      "ru": "Коттедж в п. Кировское, Днепропетровская обл."
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2015
+    },
+    "id": "2015_interior_design_of_office_in_dnipro_city_01",
+		"type": "public",
+    "name": {
+      "ua": "Дизайн-проект офісу, м Дніпро",
+      "en": "Interior design of office in Dnipro city",
+      "ru": "Дизаин-проект офиса, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2015,
+      "realization": 2016
+    },
+    "id": "2015_spa_area_of_tourist_center_blakitne_polumya_in_henichesk_city_01",
+		"type": "public",
+    "name": {
+      "ua": "SPA зона турбази \u0022Блакитне полум'я\u0022, м Генічеськ",
+      "en": "SPA area of tourist center \u0022Blakitne polumya\u0022 in Henichesk city",
+      "ru": "SPA зона турбазы \u0022Голубое пламя\u0022, г. Геническ"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2016,
+      "realization": 2017
+    },
+    "id": "2016_interior_design_of_cottage_in_dnipro_city_01",
+		"type": "residential",
+    "name": {
+      "ua": "Дизайн інтер'єрів котеджу, м. Дніпро",
+      "en": "Interior design of cottage in Dnipro city",
+      "ru": "Дизаин  интерьеров коттеджа, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "date": {
+      "design": 2016,
+      "realization": 2016
+    },
+    "id": "2016_the_interior_design_of_the_apartment_in_slavia_residential_complex_dnipro_city_01",
+		"type": "residential",
+    "name": {
+      "ua": "Дизайн інтер'єрів квартири в ЖК \u0022Славія\u0022, м. Дніпро",
+      "en": "The interior design of the apartment in \u0022Slavia\u0022 residential complex, Dnipro city",
+      "ru": "Дизаин интерьеров квартиры в ЖК \u0022Славия\u0022, г. Днепр"
+    },
+    "description": {
+      "ua": "",
+      "en": "",
+      "ru": ""
+    }
+  }
+]

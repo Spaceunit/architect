@@ -1,0 +1,31 @@
+{
+    "date": {
+      "design": "2013",
+      "realization": "2014"
+    },
+    "id": "2013_summerhouse_in_kirovske_village_dnipropetrovsk_region_01",
+    "images": {
+			"count": 3,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Альтанка в с. Кіровське, Дніпропетровська обл.",
+      "en": "Summerhouse in Kirovske village, Dnipropetrovsk region",
+      "ru": "Беседка в п.Кировское, Днепропетровская обл."
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+  ]
+}

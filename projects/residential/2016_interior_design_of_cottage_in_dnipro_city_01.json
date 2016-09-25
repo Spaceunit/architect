@@ -1,0 +1,25 @@
+
+{
+    "date": {
+      "design": "2016",
+      "realization": "2016-2017"
+    },
+    "id": "2016_interior_design_of_cottage_in_dnipro_city_01",
+    "images": {
+			"count": 10
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Дизайн інтер'єрів котеджу, м. Дніпро",
+      "en": "Interior design of cottage in Dnipro city",
+      "ru": "Дизаин интерьеров коттеджа, г. Днепр"
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+    ]
+}

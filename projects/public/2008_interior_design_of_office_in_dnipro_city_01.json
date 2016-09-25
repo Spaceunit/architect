@@ -1,0 +1,37 @@
+{
+    "date": {
+      "design": "2008",
+      "realization": "2009"
+    },
+    "id": "2008_interior_design_of_office_in_dnipro_city_01",
+    "images": {
+			"count": 11,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "public",
+    "name": {
+      "ua": "Дизайн-проект офісу, м Дніпро",
+      "en": "Interior design of office in Dnipro city",
+      "ru": "Дизаин-проект офиса, г. Днепр"
+    },
+    "description" : [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      },
+      {
+        "type": "visualization",
+        "ua": "К. Клименко",
+        "en": "K. Klimenko",
+        "ru": "К. Клименко"
+      }
+    ]
+}

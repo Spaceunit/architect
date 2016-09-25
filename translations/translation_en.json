@@ -1,0 +1,64 @@
+{
+  "lc": "en",
+  "base": {
+    "ARCHITECT": "Architect",
+    "NAME": "Polshchak L. L.",
+    "SEARCH": "Search",
+    "SORTBY": "Sort by",
+    "READ_MORE": "Read more",
+    "LANGUAGE": "Language",
+    "ENGLISH": "English",
+    "UKRAINIAN": "Ukrainian",
+    "RUSSIAN": "Russian",
+    "HELP": "Help",
+    "ALPHABETICAL": "alphabetical",
+    "NEWEST": "newest",
+    "OLDEST": "oldest",
+		"IMAGE": "Image"
+  },
+  "header": {
+    "HEADERMAINTEXT": "Lyudmyla Polshchak",
+    "HEADERSECONDARYTEXT": "Architect-designer"
+  },
+  "NAVBAR": {
+    "PORTFOLIO": "Portfolio",
+    "ABOUT": "About",
+    "CONTACT": "Contact"
+  },
+  "footer": {},
+  "project":{
+    "description": {
+      "AUTHOR": "Author",
+      "DESIGN": "Design",
+      "REALIZATION": "Implementation  of",
+      "PARTICIPATION": "Participation",
+      "VISUALIZATION": "Visualization",
+      "COLLECTIVE_AUTHORSHIP": "Collective authorship",
+      "PHOTO_BY": "Photo by"
+    }
+  },
+  "about": {
+    "ABOUT": "About",
+    "object": {
+			"ABOUT_HEADER_1": "Education",
+			"ABOUT_TEXT_1": "Graduated from PSACEA Prydniprovs’ka State Academy of Civil Engineering and Architecture",
+			"ABOUT_HEADER_2": "Some header",
+			"ABOUT_TEXT_2": "Member of the National Union of Ukrainian Architects"
+
+    },
+    "content": {
+
+    }
+  },
+  "contact": {
+		"CONTACT": "Contact",
+    "object": {
+			"CONTACT_PHONE_1": "Phone",
+			"CONTACT_EMAIL_1": "Email"
+
+    },
+    "content": {
+
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "lc": "ua",
+  "base": {
+    "ARCHITECT": "Архітектор",
+    "NAME": "Польщак Л. Л.",
+    "SEARCH": "Пошук",
+    "SORTBY": "Порядок сортування",
+    "READ_MORE": "Докладніше",
+    "LANGUAGE": "Мова",
+    "ENGLISH": "Англійська",
+    "UKRAINIAN": "Українська",
+    "RUSSIAN": "Російська",
+    "HELP": "Допомога",
+    "ALPHABETICAL": "за алфавітом",
+    "NEWEST": "більш нове",
+    "OLDEST": "більш давнє",
+		"IMAGE": "Зображення"
+  },
+  "header": {
+    "HEADERMAINTEXT": "Людмила Польщак",
+    "HEADERSECONDARYTEXT": "Архітектор-дизайнер"
+  },
+  "NAVBAR": {
+    "PORTFOLIO": "Портфоліо",
+    "ABOUT": "Про себе",
+    "CONTACT": "Контакти"
+  },
+  "footer": {},
+  "project":{
+    "description": {
+      "AUTHOR": "Автор",
+      "DESIGN": "Проектування",
+      "REALIZATION": "Реалізація",
+      "PARTICIPATION": "Участь",
+      "VISUALIZATION": "Візуалізація",
+      "COLLECTIVE_AUTHORSHIP": "Авторський колектив",
+      "PHOTO_BY": "Фото"
+    }
+  },
+  "about": {
+    "ABOUT": "Про себе",
+    "object": {
+			"ABOUT_HEADER_1": "Освіта",
+			"ABOUT_TEXT_1": "Закінчила ПДАБА ДВНЗ \"Придніпровська державна академія будівництва та архітектури\"",
+			"ABOUT_HEADER_2": "Деякий заголовок",
+			"ABOUT_TEXT_2": "Член Національної спілки архітекторів України"
+
+    },
+    "content": {
+
+    }
+  },
+  "contact": {
+		"CONTACT": "Контакти",
+    "object": {
+			"CONTACT_PHONE_1": "Телефон",
+			"CONTACT_EMAIL_1": "Електронна пошта"
+    },
+    "content": {
+
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "date": {
+      "design": "2002",
+      "realization": "2003"
+    },
+    "id": "2002_shopping_center_terra_dnipro_city_01",
+    "images": {
+			"count": 2,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "public",
+    "name": {
+      "ua": "ТЦ \u0022Терра\u0022, м. Дніпро",
+      "en": "Shopping center \u0022Terra\u0022, Dnipro city",
+      "ru": "ТЦ \u0022Терра\u0022, г. Днепр"
+    },
+    "description" : [
+      {
+        "type": "collective_authorship",
+        "ua": "Л.Польщак, Д.Нагорный, С.Зибзибадзе, В.Глушенко",
+        "en": "L.Polshchak, D.Nagorny, S.Zibzibadze, V.Hlushenko",
+        "ru": "Л.Польщак, Д.Нагорный, С.Зибзибадзе, В.Глушенко"
+      }
+    ]
+}

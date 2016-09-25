@@ -1,0 +1,27 @@
+<div ng-cloak="" class="gridList">
+  <md-subheader class="md-primary">
+    <p hide-gt-sm>{{$ctrl.project.name[lc.translation.lc]}}</p>
+    <h3 hide-gt-md hide-sm hide-xs>{{$ctrl.project.name[lc.translation.lc]}}</h3>
+    <h2 hide-md hide-sm hide-xs>{{$ctrl.project.name[lc.translation.lc]}}</h2>
+  </md-subheader>
+  <md-grid-list md-cols-xs="1" md-cols-sm="2" md-cols-md="4" md-cols-gt-md="6" md-row-height-gt-md="1:1" md-row-height="2:2" md-gutter="12px" md-gutter-gt-sm="8px">
+
+    <md-grid-tile style="background-image: url({{image.lowUrl}});background-size: contain;background-repeat: no-repeat; background-position: center;" data-id="{{$index}}" ng-click="showAdvanced($event, $index)" class="grid-block" ng-repeat="image in expo" md-rowspan="1" md-colspan="1" md-colspan-sm="1" md-colspan-xs="1" md-whiteframe="3">
+      <!-- <img class="image-horizontal" ng-src="{{image.lowUrl}}" alt="{{image.description[lc.translation.lc]}}" /> -->
+    </md-grid-tile>
+
+    <md-grid-tile class="grid-block" md-rowspan="1" md-colspan="4" md-colspan-sm="2" md-colspan-xs="1" md-whiteframe="3">
+      <table class="grid-block-table">
+        <tr ng-repeat="row in description">
+          <td>
+            {{lc.translation.project.description[row.type.toUpperCase()]}}
+          </td>
+          <td>
+            {{row[lc.translation.lc]}}
+          </td>
+        </tr>
+      </table>
+    </md-grid-tile>
+
+  </md-grid-list>
+</div>

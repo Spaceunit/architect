@@ -1,0 +1,30 @@
+
+{
+    "date": {
+      "design": "2015"
+    },
+    "id": "2015_interior_design_of_kindergarten_dnipro_city_01",
+    "images": {
+			"count": 13
+		},
+		"type": "public",
+    "name": {
+      "ua": "Дизайн інтер'єрів дитячого садочка, м. Дніпро",
+      "en": "Interior design of kindergarten, Dnipro city",
+      "ru": "Дизаин интерьеров детского садика, г. Днепр"
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      },
+      {
+        "type": "visualization",
+        "ua": "Я. Яцуба",
+        "en": "Y. Yatsuba",
+        "ru": "Я. Яцуба"
+      }
+    ]
+}

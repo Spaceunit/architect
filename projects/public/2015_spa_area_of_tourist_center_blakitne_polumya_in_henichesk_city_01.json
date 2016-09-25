@@ -1,0 +1,30 @@
+{
+    "date": {
+      "design": "2015",
+      "realization": "2016"
+    },
+    "id": "2015_spa_area_of_tourist_center_blakitne_polumya_in_henichesk_city_01",
+    "images": {
+			"count": 9
+		},
+		"type": "public",
+    "name": {
+      "ua": "SPA зона турбази \u0022Блакитне полум'я\u0022, м Генічеськ",
+      "en": "SPA area of tourist center \u0022Blakitne polumya\u0022 in Henichesk city",
+      "ru": "SPA зона турбазы \u0022Голубое пламя\u0022, г. Геническ"
+    },
+    "description" : [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      },
+      {
+        "type": "visualization",
+        "ua": "Я. Яцуба",
+        "en": "Y. Yatsuba",
+        "ru": "Я. Яцуба"
+      }
+    ]
+}

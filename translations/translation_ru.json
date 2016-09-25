@@ -1,0 +1,63 @@
+{
+  "lc": "ru",
+  "base": {
+    "ARCHITECT": "Архитектор",
+    "NAME": "Польщак Л. Л.",
+    "SEARCH": "Поиск",
+    "SORTBY": "Порядок сортировки",
+    "READ_MORE": "Подробнее",
+    "LANGUAGE": "Язык",
+    "ENGLISH": "Английский",
+    "UKRAINIAN": "Украинский",
+    "RUSSIAN": "Русский",
+    "HELP": "Помощь",
+    "ALPHABETICAL": "по алфавиту",
+    "NEWEST": "более новое",
+    "OLDEST": "более позднее",
+		"IMAGE": "Изображение"
+  },
+  "header": {
+    "HEADERMAINTEXT": "Людмила Польщак",
+    "HEADERSECONDARYTEXT": "Архитектор-дизайнер"
+  },
+  "NAVBAR": {
+    "PORTFOLIO": "Портфолио",
+    "ABOUT": "О себе",
+    "CONTACT": "Контакты"
+  },
+  "footer": {},
+  "project":{
+    "description": {
+      "AUTHOR": "Автор",
+      "DESIGN": "Проектирование",
+      "REALIZATION": "Реализация",
+      "PARTICIPATION": "Участь",
+      "VISUALIZATION": "Визуализация",
+      "COLLECTIVE_AUTHORSHIP": "Авторский коллектив",
+      "PHOTO_BY": "Фото"
+    }
+  },
+  "about": {
+    "ABOUT": "О себе",
+    "object": {
+			"ABOUT_HEADER_1": "Образование",
+			"ABOUT_TEXT_1": "Закончила ПГАСА  ГВУЗ  \u0022Приднепровская государственная академия строительства и архитектуры\u0022",
+			"ABOUT_HEADER_2": "Некий заголовок",
+			"ABOUT_TEXT_2": "Член Национального союза архитекторов Украины"
+
+    },
+    "content": {
+
+    }
+  },
+  "contact": {
+		"CONTACT": "Контакты",
+    "object": {
+			"CONTACT_PHONE_1": "Телефон",
+			"CONTACT_EMAIL_1": "Электронная почта"
+    },
+    "content": {
+
+    }
+  }
+}

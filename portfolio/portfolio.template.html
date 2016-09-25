@@ -1,0 +1,47 @@
+<md-content ng-hide="dataLoaded" class="md-padding" layout="row" layout-wrap layout-align="center">
+	<div layout="column" layout-sm="column" layout-align="space around">
+  	<md-progress-circular md-mode="indeterminate"></md-progress-circular>
+	</div>
+</md-content>
+ <md-content  ng-show="dataLoaded" class="md-padding" layout="row" layout-wrap layout-align="center">
+  <md-input-container flex-gt-lg="50" flex-gt-md="50" flex-xs="50" flex-sm="50" class="md-block">
+    <label>{{lc.translation.base.SEARCH}}:</label>
+    <input name="name" ng-model="$ctrl.query" />
+  </md-input-container>
+  <md-input-container flex-gt-lg="10" flex-gt-md="10" flex-xs="50" flex-sm="30" class="md-block">
+    <label>{{lc.translation.base.SORTBY}}</label>
+      <md-select ng-model="$ctrl.orderProp">
+        <md-option value="name">{{lc.translation.base.ALPHABETICAL}}</md-option>
+        <md-option value="-date.design">{{lc.translation.base.NEWEST}}</md-option>
+        <md-option value="date.design">{{lc.translation.base.OLDEST}}</md-option>
+      </md-select>
+  </md-input-container>
+</md-content>
+<md-content ng-show="dataLoaded" class="md-padding" layout="row" layout-wrap layout-align="center">
+  <!-- flex-gt-md="45" -->
+  <md-card flex-gt-lg="20" flex-gt-md="30" flex-xs="100" flex-sm="100"
+    ng-repeat="project in $ctrl.projects | filter:$ctrl.query | orderBy:$ctrl.orderPropValue()" md-whiteframe="2">
+
+    <md-media-md>
+      <img ng-src="{{project.imageUrl}}" class="md-card-image" alt="image caption">
+    </md-media-md>
+
+    <md-card-header>
+      <md-card-header-text>
+        <span class="md-title">{{project.name[lc.translation.lc]}}</span>
+        <span class="md-subhead">{{project.date.design}}</span>
+      </md-card-header-text>
+    </md-card-header>
+
+    <md-card-content>
+      <p>
+       {{project.description[lc.translation.lc]}}
+      </p>
+    </md-card-content>
+
+    <md-card-actions layout="row" layout-align="end center" style="margin-top: auto;">
+      <md-button ng-href="#!/portfolio/{{project.projectURL}}">{{lc.translation.base.READ_MORE}}</md-button>
+    </md-card-actions>
+  </md-card>
+</md-content>
+<!-- <footer ng-include="'template/footer/footer.template.html'"></footer> -->

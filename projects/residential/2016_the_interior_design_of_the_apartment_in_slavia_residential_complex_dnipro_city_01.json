@@ -1,0 +1,25 @@
+
+{
+    "date": {
+      "design": "2016",
+      "realization": "2016"
+    },
+    "id": "2016_the_interior_design_of_the_apartment_in_slavia_residential_complex_dnipro_city_01",
+    "images": {
+			"count": 10
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Дизайн інтер'єрів квартири в ЖК \u0022Славія\u0022, м. Дніпро",
+      "en": "The interior design of the apartment in \u0022Slavia\u0022 residential complex, Dnipro city",
+      "ru": "Дизаин интерьеров квартиры в ЖК \u0022Славия\u0022, г. Днепр"
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+    ]
+}

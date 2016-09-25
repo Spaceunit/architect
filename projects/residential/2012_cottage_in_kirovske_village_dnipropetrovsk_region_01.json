@@ -1,0 +1,24 @@
+
+{
+    "date": {
+      "design": "2012"
+    },
+    "id": "2012_cottage_in_kirovske_village_dnipropetrovsk_region_01",
+    "images": {
+			"count": 6
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Котедж в с. Кіровське, Дніпропетровська обл.",
+      "en": "Сottage in Kirovske village, Dnipropetrovsk region",
+      "ru": "Коттедж в п. Кировское, Днепропетровская обл."
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+    ]
+}

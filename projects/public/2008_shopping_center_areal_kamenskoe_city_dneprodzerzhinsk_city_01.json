@@ -1,0 +1,36 @@
+{
+    "date": {
+      "design": "2008"
+    },
+    "id": "2008_shopping_center_areal_kamenskoe_city_dneprodzerzhinsk_city_01",
+    "images": {
+			"count": 4,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "public",
+    "name": {
+      "ua": "ТЦ \u0022Ареал\u0022, м. Кам'янське  (Дніпродзержинськ)",
+      "en": "Shopping center \u0022AREAL\u0022, Kamenskoe city (Dneprodzerzhinsk city)",
+      "ru": "ТЦ \u0022Ареал\u0022, г. Каменское (Днепродзержинск)"
+    },
+    "description" : [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      },
+      {
+        "type": "visualization",
+        "ua": "К. Клименко",
+        "en": "K. Klimenko",
+        "ru": "К. Клименко"
+      }
+    ]
+}

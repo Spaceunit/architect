@@ -1,0 +1,31 @@
+{
+    "date": {
+      "design": "2005",
+      "realization": "2005"
+    },
+    "id": "2005_house_kirovskoe_01",
+    "images": {
+			"count": 7,
+			"i0":{
+				"description":{
+					"ua": "",
+					"en": "",
+					"ru":	""
+				}
+			}
+		},
+		"type": "residential",
+    "name": {
+      "ua": "Житловий будинок в с. Кіровське, Дніпропетровська обл.",
+      "en": "House in Kirovske village, Dnipropetrovsk region",
+      "ru": "Жилой дом в п.Кировское, Днепропетровская обл."
+    },
+    "description": [
+      {
+        "type": "author",
+        "ua": "Л. Польщак",
+        "en": "L. Polshchak",
+        "ru": "Л. Польщак"
+      }
+  ]
+}
